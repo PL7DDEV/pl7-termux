@@ -18,7 +18,7 @@ from pathlib import Path
 INJECTION_PATH = "/sdcard/Download/PL7"
 
 # 👉 SEU REPOSITÓRIO NO GITHUB (formato: usuario/repo)
-GITHUB_REPO = "seu-usuario/pl7-termux"
+GITHUB_REPO = "PL7DDEV/pl7-termux"
 
 # 👉 BRANCH DO GITHUB
 GITHUB_BRANCH = "main"
