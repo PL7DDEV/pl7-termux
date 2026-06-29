@@ -15,6 +15,8 @@ E='\033[0m'
 
 clear
 
+termux-setup-storage /storage/emulated/0/Android/data/com.dts.freefireth/files/contentcache/Optional/android/gameassetbundles
+
 echo -e "${CY}${B}"
 echo "    ╔═══════════════════════════════════════════════╗"
 echo "    ║                                               ║"
@@ -75,7 +77,7 @@ echo "    ╔══════════════════════�
 echo "    ║                                               ║"
 echo "    ║       ✅ INSTALAÇÃO CONCLUÍDA! ✅            ║"
 echo "    ║                                               ║"
-echo "    ║     Digite '${W}pl7${G}' pra abrir a ferramenta!       ║"
+echo "    ║     Digite 'pl7' pra abrir a ferramenta!       ║"
 echo "    ║                                               ║"
 echo "    ╚═══════════════════════════════════════════════╝"
 echo -e "${E}"
