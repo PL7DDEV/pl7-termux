@@ -15,7 +15,7 @@ from pathlib import Path
 # ============================================================
 
 # 👉 COLE AQUI O CAMINHO ONDE OS ARQUIVOS SERÃO INJETADOS
-INJECTION_PATH = "/sdcard/Download/PL7"
+INJECTION_PATH = "/storage/emulated/0/Android/data/com.dts.freefireth/files/contentcache/Optional/android/gameassetbundles"
 
 # 👉 SEU REPOSITÓRIO NO GITHUB (formato: usuario/repo)
 GITHUB_REPO = "PL7DDEV/pl7-termux"
@@ -138,8 +138,8 @@ def show_menu():
     print(f"  {C.P}{C.BOLD}╠═══════════════════════════════════════════════╣{C.END}")
     print(f"  {C.P}{C.BOLD}║                                               ║{C.END}")
     print(f"  {C.P}{C.BOLD}║  {C.CY}[{C.W}{C.BOLD}1{C.CY}]{C.END} {C.G}💎 Injetar Holograma{C.END}                   {C.P}{C.BOLD}║{C.END}")
-    print(f"  {C.P}{C.BOLD}║  {C.CY}[{C.W}{C.BOLD}2{C.CY}]{C.END} {C.Y}🎯 Injetar HS (Headshot){C.END}              {C.P}{C.BOLD}║{C.END}")
-    print(f"  {C.P}{C.BOLD}║  {C.CY}[{C.W}{C.BOLD}3{C.CY}]{C.END} {C.B}⚡ Injetar FPS Boost{C.END}                   {C.P}{C.BOLD}║{C.END}")
+    print(f"  {C.P}{C.BOLD}║  {C.CY}[{C.W}{C.BOLD}2{C.CY}]{C.END} {C.Y}🎯 Injetar HS (Beta){C.END}              {C.P}{C.BOLD}║{C.END}")
+    print(f"  {C.P}{C.BOLD}║  {C.CY}[{C.W}{C.BOLD}3{C.CY}]{C.END} {C.B}⚡ Injetar FPS Boost (Beta){C.END}                   {C.P}{C.BOLD}║{C.END}")
     print(f"  {C.P}{C.BOLD}║  {C.CY}[{C.W}{C.BOLD}4{C.CY}]{C.END} {C.R}🔥 Injetar TUDO (All-in-One){C.END}          {C.P}{C.BOLD}║{C.END}")
     print(f"  {C.P}{C.BOLD}║                                               ║{C.END}")
     print(f"  {C.P}{C.BOLD}║  {C.CY}[{C.W}{C.BOLD}0{C.CY}]{C.END} {C.R}🚪 Sair{C.END}                                {C.P}{C.BOLD}║{C.END}")
