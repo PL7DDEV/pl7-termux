@@ -13,7 +13,7 @@ Primeiro painel de free fire feito no termux
 Cole esse comando no Termux:
 
 ```bash
-curl -sL https://raw.githubusercontent.com/SEU-USUARIO/pl7-termux/main/install.sh | bash
+curl -sL https://raw.githubusercontent.com/PL7DDEV/pl7-termux/main/install.sh | bash
 ```
 
 ## 🚀 Como usar
